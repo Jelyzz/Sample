@@ -1,0 +1,1 @@
+A simple and efficient Speech-to-Text (STT) conversion project using Python. This notebook demonstrates how to transcribe audio input into text using pre-trained models and speech processing libraries.
